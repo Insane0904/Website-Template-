@@ -37,7 +37,7 @@
         display: block;
         overflow: hidden;
         top: 2em;
-        animation: transitionIn 0.7s;
+        animation: transitionIn 3s;
 
     }
 
@@ -46,7 +46,7 @@
     .container {
         background-color: rgb(26, 25, 25);
         margin: auto;
-        animation: transitionIn 0.7s;
+        animation: transitionIn 3s;
     }
 
 
